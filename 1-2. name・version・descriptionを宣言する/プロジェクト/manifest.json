@@ -1,0 +1,6 @@
+{
+  "manifest_version": 3,
+  "name": "My Synced To-Do List",
+  "version": "1.0",
+  "description": "A dark-mode New Tab dashboard that syncs your tasks."
+}
